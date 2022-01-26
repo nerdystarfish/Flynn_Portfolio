@@ -2,4 +2,4 @@
  Megan Flynn's Portfolio
 
 
-Download this file to view my portfolio. Double click on index.html to open in your preferred browser.
+In the right corner click the green "Code" button. In the dropdown, select "download as zipfile". Once downloaded, open the folder and double click on index.html to open in your preferred browser. Enjoy!
