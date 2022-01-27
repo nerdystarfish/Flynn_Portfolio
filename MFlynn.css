@@ -109,6 +109,11 @@ a:visited{color:#999999;}
 							margin-right: auto;
 							width:75%;}
 
+#musictitle	a:link{color:#534182;}
+#musictitle a:visited{color:#9A79D2;}
+#musictitle a:hover{color:#C5B3E5;}
+
+
 #contacts a{text-decoration:none;}
 #contacts a:link{color:#534182;}
 #contacts a:visited{color:#9A79D2;}
